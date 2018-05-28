@@ -1,3 +1,8 @@
+# THIS PROJECT HAS BEEN SUPERSEDED BY MULLE-PROJECT
+
+-> [mulle-project](//github.com/mulle-nat/mulle-project)
+
+
 # mulle-homebrew
 
 ![mulle-homebrew.iconset/icon_128x128-png](mulle-homebrew.iconset/icon_128x128.png)
